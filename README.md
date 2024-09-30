@@ -1,11 +1,4 @@
 
-## Databases and Internet Technologies - Group Project - Group 2
-### Group Members:
-- Fengjie Yuan
-- Jan Bernd Hagemann
-- Jiayu Li
-- Sophie Matwijow
-- Thariq Mohamed Ali
 
 ## 1. Overview
 
@@ -149,7 +142,7 @@ This application provides an interactive interface for visualizing data and leve
 
 ## Credits
 
-Created by Group 2 as part of the **Databases course** at WHU - Otto Beisheim School of Management.
+Created by Thariq Mohamed Ali at WHU - Otto Beisheim School of Management.
 
 ---
 
